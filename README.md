@@ -1,2 +1,3 @@
-# code
-Code snippets for reuse
+# Code
+
+Code snippets for reuse.
