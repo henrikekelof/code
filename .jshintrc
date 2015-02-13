@@ -4,7 +4,6 @@
     "curly": true, 
     "eqeqeq": true, 
     "forin": true, 
-    "freeze": true, 
     "immed": true, 
     "newcap": true, 
     "noarg": true, 

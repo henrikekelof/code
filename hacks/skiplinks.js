@@ -1,5 +1,5 @@
 
-// Fixing "Skip to content" links
+// ==|== Fixing "Skip to content" links =============================================== //
 // http://www.nczonline.net/blog/2013/01/15/fixing-skip-to-content-links/
 
 ( function ( win ) {
@@ -22,5 +22,5 @@
         win.attachEvent( 'onhashchange', hashChangeHandler );
     }
 
-}( window ) );
+} ( window ) );
 
